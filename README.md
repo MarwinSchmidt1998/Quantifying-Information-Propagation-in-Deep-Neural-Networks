@@ -1,0 +1,2 @@
+# Quantifying-Information-Propagation-in-Deep-Neural-Networks
+This repository is part of my bachelor’s thesis in theoretical physics under the supervision of Prof. Johanna Erdmenger. It extends the work of Erdmenger et al. https://arxiv.org/pdf/2107.06898. We use a hierarchical relative entropy to quantify how information propagates through deep neural networks, such as multilayer perceptrons or autoencoders.
